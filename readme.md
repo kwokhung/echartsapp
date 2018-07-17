@@ -1,5 +1,12 @@
 ionic start echartsapp tabs
 
+ionic g page chart1 --no-module
+ionic g page chart2 --no-module
+ionic g page chart3 --no-module
+ionic g page chart4 --no-module
+ionic g page chart5 --no-module
+ionic g page chart6 --no-module
+
 1. Init Repo (VSCode)
 
 2. Create Repo (GitHub REST API)
